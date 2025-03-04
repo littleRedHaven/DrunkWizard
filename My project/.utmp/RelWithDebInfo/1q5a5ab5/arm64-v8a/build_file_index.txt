@@ -1,0 +1,2 @@
+C:\Spring_2025-TAMU-COURSES\Virtual_Reality\Mystic_Mixology\DrunkWizard\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Spring_2025-TAMU-COURSES\Virtual_Reality\Mystic_Mixology\DrunkWizard\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
