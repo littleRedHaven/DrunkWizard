@@ -1,12 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\My project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\morgy\\DrunkWizard\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XRBaseInputInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
+              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAYwIIBAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:56:10.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XRInteractionManager.cs",
+              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
+              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAYwEoBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XRControllerRecorder.cs",
+              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
+              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:27:22.752Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
