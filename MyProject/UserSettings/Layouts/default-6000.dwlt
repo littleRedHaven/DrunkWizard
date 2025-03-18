@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 90
+  controlID: 106
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 1309
+  controlID: 45
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -320,7 +320,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e4dafcff5edcfcff66f3fcffb40bfdff9624fdff4231fdff8433fdffd233fdff2234fdff7234fdff524cfdff3264fdffd064fdffb87cfdff7889fdffc28bfdff188cfdff708cfdffc88cfdffb0a4fdff90c3fdff
+      m_ExpandedIDs: 1809ffff920affff9a21ffffe839ffff7e5cffff2a69ffff6c6bffffba6bffff0a6cffff5a6cffff3a84ffff1a9cffffac9cffff94b4ffff54c1ffff9ec3fffff4c3ffff4cc4ffffa4c4ffff8cdcffff02faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -868,9 +868,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -36.860126, y: 0.63668215, z: -1.380223}
+    m_Target: {x: -36.854218, y: 0.7750097, z: -1.3916078}
     speed: 2
-    m_Value: {x: -36.860126, y: 0.63668215, z: -1.380223}
+    m_Value: {x: -36.854218, y: 0.7750097, z: -1.3916078}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -916,9 +916,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.034280118, y: -0.7953995, z: 0.04704451, w: 0.60435694}
+    m_Target: {x: -0.04609063, y: -0.80171806, z: -0.06066537, w: 0.5939213}
     speed: 2
-    m_Value: {x: -0.034257926, y: 0.79488456, z: -0.047014046, w: -0.6039657}
+    m_Value: {x: -0.046133447, y: -0.800485, z: -0.060570687, w: 0.594497}
   m_Size:
     m_Target: 0.2577904
     speed: 2
@@ -1101,7 +1101,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/Android
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1111,17 +1111,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 68
   m_LastFolders:
-  - Assets/Plugins/Android
+  - Assets
   m_LastFoldersGridSize: 68
-  m_LastProjectPath: C:\Spring_2025-TAMU-COURSES\Virtual_Reality\Mystic_Mixology\DrunkWizard\My
-    project
+  m_LastProjectPath: C:\Spring_2025-TAMU-COURSES\Virtual_Reality\Mystic_Mixology\DrunkWizard\MyProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 941d0500
-    m_LastClickedID: 335252
-    m_ExpandedIDs: 00000000624003006440030066400300684003006a4003006c4003006e40030070400300724003007440030076400300541d050000ca9a3b
+    m_SelectedIDs: b2100100
+    m_LastClickedID: 69810
+    m_ExpandedIDs: 00000000b2100100b4100100b6100100b8100100ba100100bc100100be100100c0100100c2100100c4100100c610010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1150,7 +1149,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000624003006440030066400300684003006a4003006c4003006e40030070400300724003007440030076400300
+    m_ExpandedIDs: 00000000b2100100b4100100b6100100b8100100ba100100bc100100be100100c0100100c2100100c4100100c6100100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1178,7 +1177,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000082b3000036b5000070b50000a0b50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
