@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\morgy\\DrunkWizard\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\speechDetection.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\speechDetection.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\CollisionDetector.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CollisionDetector.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\CollisionDetector.cs",
+              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\CollisionDetector.cs",
+              "RelativeToolTip": "Assets\\CollisionDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:30:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "speechDetection.cs",
+              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\speechDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\speechDetection.cs",
+              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\My project\\Assets\\speechDetection.cs",
+              "RelativeToolTip": "Assets\\speechDetection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:52:11.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "XRBaseInputInteractor.cs",
               "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Interactors\\XRBaseInputInteractor.cs",
               "ViewState": "AgIAAHMBAAAAAAAAAAAYwIIBAACjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T21:56:10.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T21:56:10.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "XRInteractionManager.cs",
               "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
@@ -47,12 +80,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\XRInteractionManager.cs",
               "ViewState": "AgIAADsBAAAAAAAAAAAYwEoBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T21:54:33.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T21:54:33.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "XRControllerRecorder.cs",
               "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\Interaction\\Controllers\\XRControllerRecorder.cs",
