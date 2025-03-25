@@ -1,5 +1,5 @@
-using Meta.WitAi;
-using Oculus.Voice;
+//using Meta.WitAi;
+//using Oculus.Voice;
 using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,7 +7,7 @@ using TMPro;
 
 public class speechDetection : MonoBehaviour
 {
-    public AppVoiceExperience wit;
+    //public AppVoiceExperience wit;
     public GameObject textmesh;
     public Collision cauldCollis;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -21,7 +21,7 @@ public class speechDetection : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space)) {
 
-            wit.Activate();
+           // wit.Activate();
             Debug.Log("Pressed");
         }
     }
@@ -41,7 +41,7 @@ public class speechDetection : MonoBehaviour
     // this is not finding any collision. How the heck do I find a button input
     public void OnCollisionEnter(Collision cauldCollis)
     {
-        wit.Activate();
+      //  wit.Activate();
         Debug.Log("Entered");
     }
 }
