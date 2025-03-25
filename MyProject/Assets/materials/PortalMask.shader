@@ -9,7 +9,7 @@ Shader "Custom/PortalMask"
         Tags 
         {
             "RenderType"="Opaque" 
-            "Queue = Geometry"
+            "Queue" = "Geometry"
             "RenderPipeline" = "UniversalPipeline"
         }
 
