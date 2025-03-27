@@ -1,0 +1,10 @@
+# ninja log v5
+122	1329	7647474379140126	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	90303bdd4f3b2fce
+211	1354	7647474379663386	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	625d190c98a86d2f
+69	1356	7647474379653392	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3889021fed0fb149
+99	1392	7647474379819024	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6216e46e2d650338
+177	1488	7647474381030841	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d410412feb5c0a32
+1	1545	7647474381562561	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5662b55310019b53
+149	1698	7647474383178813	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	27cd71e04c5375d
+41	1811	7647474384024873	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2e756db862c5d00c
+1811	2049	7647474386552732	C:/Spring_2025-TAMU-COURSES/Virtual_Reality/Mystic_Mixology/DrunkWizard/MyProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4g31536c/obj/arm64-v8a/libgame.so	a0fc8f699f91c7f5

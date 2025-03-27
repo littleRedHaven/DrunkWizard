@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\morgy\\DrunkWizard\\MyProject\\",
+  "WorkspaceRootPath": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morgy\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CustomHapticScript.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\spring_2025-tamu-courses\\virtual_reality\\mystic_mixology\\drunkwizard\\myproject\\assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\materials\\PortalMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:Assets\\materials\\PortalMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:Assets\\CustomHapticScript.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager.cs",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:20:37.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenXRProjectValidation.cs",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.openxr\\Runtime\\OpenXRProjectValidation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:59:25.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortalMask.shader",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\materials\\PortalMask.shader",
+              "RelativeDocumentMoniker": "Assets\\materials\\PortalMask.shader",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\materials\\PortalMask.shader",
+              "RelativeToolTip": "Assets\\materials\\PortalMask.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T15:58:28.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CustomHapticScript.cs",
-              "DocumentMoniker": "C:\\Users\\morgy\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs",
               "RelativeDocumentMoniker": "Assets\\CustomHapticScript.cs",
-              "ToolTip": "C:\\Users\\morgy\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\CustomHapticScript.cs",
               "RelativeToolTip": "Assets\\CustomHapticScript.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAcwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:21:11.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:21:11.32Z"
             }
           ]
         }
