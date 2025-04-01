@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\spring_2025-tamu-courses\\virtual_reality\\mystic_mixology\\drunkwizard\\myproject\\assets\\scripts\\selectionmanager_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionmanager_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\spring_2025-tamu-courses\\virtual_reality\\mystic_mixology\\drunkwizard\\myproject\\assets\\passthrough_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\passthrough_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\spring_2025-tamu-courses\\virtual_reality\\mystic_mixology\\drunkwizard\\myproject\\assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SelectionManager_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SelectionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +27,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectionManager_new.cs",
-              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager_new.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager_new.cs",
-              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager_new.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\SelectionManager_new.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Title": "Passthrough_manager.cs",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Passthrough_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Passthrough_manager.cs",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Passthrough_manager.cs",
+              "RelativeToolTip": "Assets\\Passthrough_manager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:22:36.984Z",
+              "WhenOpened": "2025-04-01T19:45:13.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SelectionManager_new.cs",
+              "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager_new.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager_new.cs",
+              "ToolTip": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager_new.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectionManager_new.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:22:36.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SelectionManager.cs",
               "DocumentMoniker": "C:\\Spring_2025-TAMU-COURSES\\Virtual_Reality\\Mystic_Mixology\\DrunkWizard\\MyProject\\Assets\\Scripts\\SelectionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager.cs",
@@ -43,8 +58,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SelectionManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:20:37.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:20:37.011Z"
             }
           ]
         }
