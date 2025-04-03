@@ -7,11 +7,24 @@ public class Passthrough_manager : MonoBehaviour
     public OVRPassthroughLayer layer1;
     public OVRPassthroughLayer layer2;
     private bool clicked = false;
+    private bool op = false;
     void Start()
     {
         
     }
-
+    public void changeopacity()
+    {
+        if (!op)
+        {
+            layer1.textureOpacity = 1;
+            op = true;
+        }
+        else
+        {
+            layer1.textureOpacity = 0.2f;
+            op = false; 
+        }
+    }
     public void switchlayers()
     {
 
@@ -21,10 +34,12 @@ public class Passthrough_manager : MonoBehaviour
             layer1.enabled = false;
             layer2.enabled = true;
         }
-
-
-
-
+        else
+        {
+            clicked = false;
+            layer1.enabled = true;
+            layer2.enabled = false;
+        }
     }
 
 
